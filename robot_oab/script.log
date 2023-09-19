@@ -1,0 +1,48 @@
+ERROR:root:An error occurred: Message: Could not locate element with visible text: 189681; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+
+ERROR:root:An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="stateElementId"]"}
+  (Session info: chrome=117.0.5938.88); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55c39effa6c3 <unknown>
+#1 0x55c39ecd01e7 <unknown>
+#2 0x55c39ed17566 <unknown>
+#3 0x55c39ed17651 <unknown>
+#4 0x55c39ed54a74 <unknown>
+#5 0x55c39ed390ed <unknown>
+#6 0x55c39ed52322 <unknown>
+#7 0x55c39ed38e93 <unknown>
+#8 0x55c39ed0b934 <unknown>
+#9 0x55c39ed0c71e <unknown>
+#10 0x55c39efbfcc8 <unknown>
+#11 0x55c39efc3c00 <unknown>
+#12 0x55c39efce1ac <unknown>
+#13 0x55c39efc4818 <unknown>
+#14 0x55c39ef9128f <unknown>
+#15 0x55c39efe8e98 <unknown>
+#16 0x55c39efe9069 <unknown>
+#17 0x55c39eff9853 <unknown>
+#18 0x7f0f98e1fb43 <unknown>
+
+ERROR:root:An error occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="stateElementId"]"}
+  (Session info: chrome=117.0.5938.88); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55f3112816c3 <unknown>
+#1 0x55f310f571e7 <unknown>
+#2 0x55f310f9e566 <unknown>
+#3 0x55f310f9e651 <unknown>
+#4 0x55f310fdba74 <unknown>
+#5 0x55f310fc00ed <unknown>
+#6 0x55f310fd9322 <unknown>
+#7 0x55f310fbfe93 <unknown>
+#8 0x55f310f92934 <unknown>
+#9 0x55f310f9371e <unknown>
+#10 0x55f311246cc8 <unknown>
+#11 0x55f31124ac00 <unknown>
+#12 0x55f3112551ac <unknown>
+#13 0x55f31124b818 <unknown>
+#14 0x55f31121828f <unknown>
+#15 0x55f31126fe98 <unknown>
+#16 0x55f311270069 <unknown>
+#17 0x55f311280853 <unknown>
+#18 0x7f74bf5fbb43 <unknown>
+
